@@ -12,11 +12,11 @@ const GlobalStyles = createGlobalStyle`
 }
 
 body{
-    font family: 'Sora', sans-serif;
+    font-family: 'Sora' , sans-serif;
     overflow-x: hidden;
 }
 
-hi,h2,h3,h4,h5{
+h1,h2,h3,h4,h5{
     margin:0;
     padding: 0;
 }
