@@ -9,8 +9,8 @@ x  Code Clean Up @0:09:00
 x  Creating Global Styles @0:11:06
 x  Creating Necessary Files @0:19:05 
 x  Navigation Component @0:22:52
--  Home Section @0:41:34
--  About Section @1:09:14
+x  Home Section @0:41:34
+x  About Section @1:09:14
 -  RoadMap Section @1:32:54
 -  Showcase Section @2:21:36 
 -  Team Section @2:44:50
