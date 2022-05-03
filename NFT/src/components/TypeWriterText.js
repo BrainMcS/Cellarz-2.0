@@ -65,7 +65,7 @@ const TypeWriterText = () => {
             }}
             />
         </Title>
-    <Subtitle>Curate and choose!</Subtitle>
+    <Subtitle>Create your content and Choose your show!</Subtitle>
     <ButtonContainer>
         <Button text="Explore" link="#about" />
     </ButtonContainer>
