@@ -45,27 +45,27 @@ const TypeWriterText = () => {
   return (
     <>
         <Title>
-        Discover a new way to collect
+        Discover a new way to collect and view
         <Typewriter
         options={{
             autoStart: true,
             loop: true,
         }}
             onInit={(typewriter) => {
-                typewriter.typeString('<span class="text-1">NFTs.<span/>')
+                typewriter.typeString('<span class="text-1">VOD-NFTs.<span/>')
                 .pauseFor(2000)
                 .deleteAll()
-                .typeString('<span class="text-2">Collectible Items.<span/>')
+                .typeString('<span class="text-2">Collectible videos.<span/>')
                 .pauseFor(2000)
                 .deleteAll()
-                .typeString('<span class="text-3">Ape Killers!<span/>')
+                .typeString('<span class="text-3">On Demand Shows!<span/>')
                 .pauseFor(2000)
                 .deleteAll()
                 .start();
             }}
             />
         </Title>
-    <Subtitle>Let your creativity flow!</Subtitle>
+    <Subtitle>Curate and choose!</Subtitle>
     <ButtonContainer>
         <Button text="Explore" link="#about" />
     </ButtonContainer>
