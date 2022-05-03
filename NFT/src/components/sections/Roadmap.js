@@ -100,8 +100,7 @@ display: block;
 font-size: ${props => props.theme.fontxl};
 text-transform: capitalize;
 color: ${props => props.theme.text};
-`;
-
+`
 
 const Text = styled.span`
 display: block;
@@ -111,7 +110,7 @@ color: ${props => props.theme.text};
 
 font-weight: 400;
 margin: 0.5rem 0;
-`;
+`
 
 
 const RoadMapItem = ({title, subtext, addToRef}) => {

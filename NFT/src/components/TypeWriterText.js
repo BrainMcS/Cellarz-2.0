@@ -64,13 +64,11 @@ const TypeWriterText = () => {
                 .start();
             }}
             />
-        
-    </Title>
+        </Title>
     <Subtitle>Let your creativity flow!</Subtitle>
     <ButtonContainer>
         <Button text="Explore" link="#about" />
     </ButtonContainer>
-
     </>
   )
 }
