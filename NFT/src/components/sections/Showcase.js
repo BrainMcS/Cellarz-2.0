@@ -107,7 +107,6 @@ font-family: 'Akaya Telivigala', cursive;
 const Title = styled.h2`
 font-size: ${props => props.theme.fontxxxl};
 color: ${props => props.theme.body};
-text-transform: capitalize;
 display: flex;
 justify-content: flex-start;
 align-items: center;
@@ -170,10 +169,10 @@ const Showcase = () => {
   return(
 
     <Section>
-      <Title>With&nbsp;
+      <Title>On&nbsp;
         <Cursive>
           Cellarz
-        </Cursive>,
+        </Cursive>, you can
       </Title>
         <Title>
         <Typewriter
@@ -191,7 +190,7 @@ const Showcase = () => {
                 .typeString('<span class="text-3">sell/trade your contents freely.<span/>')
                 .pauseFor(2000)
                 .deleteAll()
-                .typeString('<span class="text-4">empower content creators!<span/>')
+                .typeString('<span class="text-4">empower you and your community!<span/>')
                 .pauseFor(2000)
                 .deleteAll()
                 .start();
