@@ -12,7 +12,7 @@ x  Navigation Component @0:22:52
 x  Home Section @0:41:34
 x  About Section @1:09:14
 x  RoadMap Section @1:32:54
--  Showcase Section @2:21:36 
+x  Showcase Section @2:21:36 
 -  Team Section @2:44:50
 -  Faq Section @3:03:50
 -  Banner & Footer Section @3:22:46
